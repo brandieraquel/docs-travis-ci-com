@@ -26,11 +26,7 @@ In order to run a local Web server that will serve documentation site, run:
 
 ```
 ./bin/jekyll serve
-```
-
-and then open [localhost:4000](http://localhost:4000/) in your browser.
-
-To regenerate the HTML pages automatically when you make changes to Markdown source files, use
+``n open [localhost:4000](http://localhost:4000/) in your browser.
 
 ```
 ./bin/jekyll serve --watch
